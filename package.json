@@ -1,0 +1,9 @@
+{
+  "name": "express_bootstrap_demo",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "*",
+    "jade": "*"
+  }
+}
